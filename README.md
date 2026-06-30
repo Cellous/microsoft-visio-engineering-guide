@@ -43,3 +43,57 @@ screenshots/
 - Improve technical communication
 - Standardize colors, legends, and layouts
 - Develop reusable Visio templates
+
+---
+# Initial Repository Structure
+microsoft-visio-engineering-guide
+│
+├── README.md
+│
+├── getting-started
+│   ├── installation.md
+│   ├── interface-overview.md
+│   └── keyboard-shortcuts.md
+│
+├── stencils
+│   ├── web-controls.md
+│   ├── network-stencils.md
+│   ├── flowchart-stencils.md
+│   ├── engineering-stencils.md
+│   └── ui-controls.md
+│
+├── cloud-diagrams
+│   ├── google-cloud.md
+│   ├── aws.md
+│   └── azure.md
+│
+├── networking
+│   ├── topology.md
+│   ├── firewall-diagrams.md
+│   ├── subnetworks.md
+│   └── vpc.md
+│
+├── software-design
+│   ├── dashboards.md
+│   ├── wireframes.md
+│   ├── ui-design.md
+│   └── forms.md
+│
+├── design-standards
+│   ├── color-guide.md
+│   ├── legends.md
+│   ├── spacing.md
+│   └── typography.md
+│
+├── tips-and-tricks
+│   ├── alignment.md
+│   ├── connectors.md
+│   ├── containers.md
+│   ├── layers.md
+│   └── themes.md
+│
+├── diagrams
+│
+├── screenshots
+│
+└── templates
