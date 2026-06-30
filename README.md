@@ -45,6 +45,7 @@ screenshots/
 - Develop reusable Visio templates
 
 ---
+```text
 # Initial Repository Structure
 microsoft-visio-engineering-guide
 │
@@ -97,3 +98,35 @@ microsoft-visio-engineering-guide
 ├── screenshots
 │
 └── templates
+```
+## Finding Stencils
+- Web Controls
+- Network
+- Flowchart
+- Engineering
+## Color Standards
+- Compute = Green
+- Network = Blue
+- Internal IP = Purple
+- External IP = Orange
+- Error = Red
+- Configuration = Yellow
+## Google Cloud Diagram Standards
+- VPC
+- Subnets
+- VPN
+- DNS
+- Alias IPs
+## Keyboard Shortcuts
+- Ctrl + G (Group)
+- Ctrl + Shift + U (Ungroup)
+- Ctrl + Drag (Duplicate)
+- F4 (Repeat last action)
+- Ctrl + Mouse Wheel (Zoom)
+## Common Shapes
+- Radio Button
+- Check Box
+- Date Picker
+- Containers
+- Dynamic Connectors
+- Legends
